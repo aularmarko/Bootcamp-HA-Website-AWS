@@ -20,4 +20,4 @@
   - Bastion Host (Access/Provision) en la Public Subnet
   -  WebSite Hosts en la Private Subnets
 
-![https://imgur.com/LOn01e3]
+![texto cualquiera por si no carga la imagen]https://imgur.com/LOn01e3
