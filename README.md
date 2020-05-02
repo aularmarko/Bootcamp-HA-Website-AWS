@@ -1,3 +1,10 @@
+[Diagram](https://github.com/aularmarko/Bootcamp-HA-Website-AWS/blob/master/bootcamp-diagram.png)
+
+
+
+
+
+
 - Crear repositorio en github.com y crear un branch por assignment, cada branch debe tener un readme.md con el procedimiento para replicar, problemas encontrados, etc.
 - Crear una Custom AMI usando Hashicorp Packer a partir de una AMI (Ubuntu/Centos) de el marketplace de AWS
     La imagen debe tener todos los paquetes necesarios para funcionar como webserver (Apache/NGINXy desplegar un website haciendo clone     de tu repositorio GIT donde este alojado el source del website.
@@ -20,4 +27,4 @@
   - Bastion Host (Access/Provision) en la Public Subnet
   -  WebSite Hosts en la Private Subnets
 
-[Diagram](https://github.com/aularmarko/Bootcamp-HA-Website-AWS/blob/master/bootcamp-diagram.png)
+
