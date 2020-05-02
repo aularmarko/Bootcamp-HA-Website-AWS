@@ -20,4 +20,4 @@
   - Bastion Host (Access/Provision) en la Public Subnet
   -  WebSite Hosts en la Private Subnets
 
-[Imgur](https://imgur.com/LOn01e3)
+[Diagram](https://github.com/aularmarko/Bootcamp-HA-Website-AWS/blob/master/bootcamp-diagram.png)
