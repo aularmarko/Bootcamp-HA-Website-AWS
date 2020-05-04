@@ -1,5 +1,4 @@
-[Diagram]()
-![alt image](images/aws-layout.png "AWS ASG layout")
+![alt image](bootcamp-diagram.png "AWS ASG layout")
 
 
 
