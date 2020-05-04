@@ -1,4 +1,5 @@
-[Diagram](https://github.com/aularmarko/Bootcamp-HA-Website-AWS/blob/master/bootcamp-diagram.png)
+[Diagram]()
+![alt image](images/aws-layout.png "AWS ASG layout")
 
 
 
